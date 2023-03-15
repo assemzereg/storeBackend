@@ -1,0 +1,1 @@
+from main.modules.receipt.api import blueprint as api
